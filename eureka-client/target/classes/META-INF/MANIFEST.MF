@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: liyankun
+Build-Jdk: 10.0.2
+Implementation-Title: eureka-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.liyankun
+Implementation-URL: Demo project for Spring Boot
+Created-By: Maven Integration for Eclipse
+
